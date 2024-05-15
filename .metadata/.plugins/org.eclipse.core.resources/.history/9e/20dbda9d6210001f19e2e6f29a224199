@@ -1,0 +1,17 @@
+package testing;
+
+public class Pruueba {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		int cont = 0 ;
+		
+		for (cont = 5;cont>=0;cont--) {
+			System.out.println(cont);
+		}
+		System.out.println(cont);
+	}
+
+}

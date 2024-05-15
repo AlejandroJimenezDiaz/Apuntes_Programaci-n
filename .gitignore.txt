@@ -1,0 +1,6 @@
+# Ignorar el entorno de Eclipse
+.classpath
+.project
+.settings/
+bin/
+target/

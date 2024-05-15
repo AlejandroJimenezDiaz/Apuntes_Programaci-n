@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\optim\OneDrive\Desktop\Programación 09-04-2024\.metadata\.plugins\org.eclipse.jdt.core
+555592931.index
+1221260972.index
+1865797976.index
+232070045.index
+1631429743.index

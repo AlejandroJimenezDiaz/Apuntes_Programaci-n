@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="modelo.dao.IntInstitutoDao"/>
+    <fullyQualifiedTypeName name="modelo.dao.InstitutoDaoImpList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="modelo.javabeans.Persona"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="modelo.javabeans.Alumno"/>
+    <fullyQualifiedTypeName name="modelo.javabeans.Profesor"/>
+    <fullyQualifiedTypeName name="modelo.javabeans.Administrativo"/>
+    <fullyQualifiedTypeName name="testing.TestPersona"/>
+</qualifiedTypeNameHistroy>
