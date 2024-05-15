@@ -1,6 +1,9 @@
-# Ignorar el entorno de Eclipse
-.classpath
+*.class
 .project
+.classpath
 .settings/
-bin/
-target/
+/bin
+*.rar
+*.zip
+*.jar
+.metadata/
